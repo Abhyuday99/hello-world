@@ -1,2 +1,3 @@
 # hello-world
 This repository has been created as a tutorial and has little,if any at all, functionality.
+There's so much that i don't even know where to start but i guess my name would be just fine.So Hi everyone !! My name is Abhyuday Bhartiya.I am a 19 year old Indian guy currently enrolled at IIT Delhi to study Computer Science.I am pretty ambitious about becoming a stellar coder and as a result am quite disappointed by the kind of education I am recieving in my first year  at IITD.I finally decided to stop depending on my college and learn stuff on my own utilizing the web.Pretty Excited for this journey ahead.Hope it turns out to be awesome.
